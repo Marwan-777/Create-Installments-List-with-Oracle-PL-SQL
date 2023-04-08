@@ -14,3 +14,7 @@ End date <br>
 Date <br>
 Payment amount <br>
 Client <br>
+
+## Usage
+
+This script is usefull as you might have a list of contracts info but need to know what payments you will recieve on a specific date or within an interval of dates.
